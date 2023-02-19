@@ -3,3 +3,4 @@
 2. gcc -S $CFILE: generates the assembly code of a C code and save it in an output file.
 3. gcc $CFILE -o cisfun: compiles a C file and creates an executable named cisfun
 4. A C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line with the puts function and not printf.
+5. A C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line with the function printf.
