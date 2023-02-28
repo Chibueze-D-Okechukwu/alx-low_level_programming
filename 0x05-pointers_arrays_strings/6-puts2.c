@@ -17,8 +17,8 @@ void puts2(char *str)
 		x++;
 		mko++;
 	}
-	y = mko -1;
-	for (o = 0; o <=y; o++)
+	y = mko - 1;
+	for (o = 0; o <= y; o++)
 	{
 		if (o % 2 == 0)
 		{
